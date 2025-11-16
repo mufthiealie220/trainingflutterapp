@@ -2,4 +2,4 @@ Kode ini membuat tampilan aplikasi Flutter yang terdiri dari halaman login, hala
 
 Di halaman utama, pengguna bisa melihat tiga tab: Home, Input, dan Data. Tab Home menampilkan sapaan selamat datang dan jumlah data yang tersimpan. Tab Input menyediakan form untuk menambahkan data baru yang kemudian disimpan ke SharedPreferences, sedangkan tab Data menampilkan daftar data yang sudah disimpan dengan opsi untuk menghapusnya. Menu bawah dibuat lebih modern dengan gradien, sudut membulat, dan ikon yang diperbesar. Tombol logout ditempatkan di AppBar, dan ketika ditekan, aplikasi akan menghapus data username lalu kembali ke halaman login. Secara keseluruhan, kode ini mengatur alur login sederhana, penyimpanan data lokal, dan navigasi antar halaman dengan tampilan UI yang lebih rapi dan bersih.
 
-#ScreenShoot
+# ScreenShoot
