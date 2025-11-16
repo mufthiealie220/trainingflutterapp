@@ -1,16 +1,5 @@
-# appbar
+Kode ini membuat tampilan aplikasi Flutter yang terdiri dari halaman login, halaman utama, dan menu bawah (bottom navigation). Pada bagian login, username dan password yang diinput dicek secara sederhana, dan jika benar maka username akan disimpan menggunakan SharedPreferences agar bisa diakses kembali setelah login. Setelah login berhasil, pengguna akan diarahkan ke halaman utama yang menampilkan menu navigasi bawah.
 
-A new Flutter project.
+Di halaman utama, pengguna bisa melihat tiga tab: Home, Input, dan Data. Tab Home menampilkan sapaan selamat datang dan jumlah data yang tersimpan. Tab Input menyediakan form untuk menambahkan data baru yang kemudian disimpan ke SharedPreferences, sedangkan tab Data menampilkan daftar data yang sudah disimpan dengan opsi untuk menghapusnya. Menu bawah dibuat lebih modern dengan gradien, sudut membulat, dan ikon yang diperbesar. Tombol logout ditempatkan di AppBar, dan ketika ditekan, aplikasi akan menghapus data username lalu kembali ke halaman login. Secara keseluruhan, kode ini mengatur alur login sederhana, penyimpanan data lokal, dan navigasi antar halaman dengan tampilan UI yang lebih rapi dan bersih.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#ScreenShoot
