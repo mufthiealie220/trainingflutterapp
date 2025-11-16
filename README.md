@@ -10,5 +10,9 @@ Di halaman utama, pengguna bisa melihat tiga tab: Home, Input, dan Data. Tab Hom
 
 <img width="494" height="1023" alt="image" src="https://github.com/user-attachments/assets/bab7be78-15bf-436c-bb20-92dbdcfda419" />
 
+<img width="493" height="1024" alt="image" src="https://github.com/user-attachments/assets/240573a5-8c56-4bc1-a0fa-d27b273373c5" />
+
+<img width="499" height="1024" alt="image" src="https://github.com/user-attachments/assets/e7c2a398-ea33-4c45-ac2f-d6fbc316dbf1" />
+
 
 
