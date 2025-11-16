@@ -129,7 +129,7 @@ class _BottomMenuState extends State<BottomMenu> {
 
     return Scaffold(
       appBar: AppBar(
-        automaticallyImplyLeading: false, // 🔥 Hilangkan tombol back
+        automaticallyImplyLeading: false, 
         elevation: 0,
 
         title: Row(
@@ -141,7 +141,7 @@ class _BottomMenuState extends State<BottomMenu> {
                 fontWeight: FontWeight.bold,
               ),
             ),
-            const Spacer(), // 🔥 Dorong icon logout ke kanan
+            const Spacer(),
 
             GestureDetector(
               onTap: () {
@@ -181,7 +181,6 @@ class _BottomMenuState extends State<BottomMenu> {
 
       body: pages[_currentIndex],
 
-      // 🎯 BOTTOM MENU MODERN
       bottomNavigationBar: Container(
         margin: const EdgeInsets.all(15),
         height: 75,
